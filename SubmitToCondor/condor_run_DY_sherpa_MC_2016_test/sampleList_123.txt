@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv7/DY01234jets_13TeV-sherpa/NANOAODSIM/PUMoriond17_Nano02Apr2020_102X_mcRun2_asymptotic_v8-v1/130000/94A3E6BC-3724-8242-ACBB-937D0423A0A9.root

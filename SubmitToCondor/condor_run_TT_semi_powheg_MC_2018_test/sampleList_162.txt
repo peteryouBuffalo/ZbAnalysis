@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/mc/RunIIAutumn18NanoAODv7/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/NANOAODSIM/Nano02Apr2020_102X_upgrade2018_realistic_v21_ext3-v1/60000/2770E661-40EA-3246-A57F-1EB84A8739B0.root

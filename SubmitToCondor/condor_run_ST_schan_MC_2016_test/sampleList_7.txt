@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv7/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano02Apr2020_102X_mcRun2_asymptotic_v8-v1/120000/FE3C37E3-BECC-234F-B084-1CACA5393F7C.root

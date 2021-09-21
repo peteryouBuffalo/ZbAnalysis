@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/data/Run2018A/SingleMuon/NANOAOD/02Apr2020-v1/50000/DAF64173-BF44-A24B-B457-BABAEF768F19.root

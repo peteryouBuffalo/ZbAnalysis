@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/data/Run2016C/SingleElectron/NANOAOD/02Apr2020-v1/30000/C2C534E3-D447-AA45-ACEE-4074C5606B82.root

@@ -1,0 +1,1 @@
+root:://cmsxrootd.fnal.gov///store/data/Run2018A/EGamma/NANOAOD/02Apr2020-v1/40000/A0C3F6F5-8341-A744-A1D7-15B99F5B127C.root

@@ -1,0 +1,44 @@
+000 (72919034.560.000) 2021-08-19 13:12:41 Job submitted from host: <131.225.188.235:9618?addrs=131.225.188.235-9618&alias=lpcschedd3.fnal.gov&noUDP&sock=schedd_2408689_e2e5>
+...
+040 (72919034.560.000) 2021-08-19 13:57:40 Started transferring input files
+	Transferring to host: <131.225.190.26:9618?addrs=131.225.190.26-9618&alias=cmswn2008.fnal.gov&noUDP&sock=slot1_22_1546_0bf8_15686>
+...
+040 (72919034.560.000) 2021-08-19 13:57:40 Finished transferring input files
+...
+001 (72919034.560.000) 2021-08-19 13:57:41 Job executing on host: <131.225.190.26:9618?addrs=131.225.190.26-9618&alias=cmswn2008.fnal.gov&noUDP&sock=startd_1409_0908>
+...
+006 (72919034.560.000) 2021-08-19 13:57:51 Image size of job updated: 28
+	28  -  MemoryUsage of job (MB)
+	29548  -  ResidentSetSize of job (KB)
+...
+006 (72919034.560.000) 2021-08-19 13:58:51 Image size of job updated: 143
+	143  -  MemoryUsage of job (MB)
+	146448  -  ResidentSetSize of job (KB)
+...
+006 (72919034.560.000) 2021-08-19 13:59:20 Image size of job updated: 230
+	230  -  MemoryUsage of job (MB)
+	235540  -  ResidentSetSize of job (KB)
+...
+040 (72919034.560.000) 2021-08-19 13:59:25 Entered queue to transfer output files
+...
+040 (72919034.560.000) 2021-08-19 13:59:29 Started transferring output files
+...
+040 (72919034.560.000) 2021-08-19 13:59:31 Finished transferring output files
+...
+005 (72919034.560.000) 2021-08-19 13:59:33 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:42, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:42, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1051315  -  Run Bytes Sent By Job
+	1945990  -  Run Bytes Received By Job
+	1051315  -  Total Bytes Sent By Job
+	1945990  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.06        1         1 
+	   Disk (KB)            :  4594        2000    788302 
+	   Memory (MB)          :   230        2048      2048 
+
+	Job terminated of its own accord at 2021-08-19T18:59:20Z.
+...

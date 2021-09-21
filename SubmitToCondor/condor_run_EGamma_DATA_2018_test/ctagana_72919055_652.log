@@ -1,0 +1,58 @@
+000 (72919055.652.000) 2021-08-19 13:14:09 Job submitted from host: <131.225.188.235:9618?addrs=131.225.188.235-9618&alias=lpcschedd3.fnal.gov&noUDP&sock=schedd_2408689_e2e5>
+...
+040 (72919055.652.000) 2021-08-19 14:28:34 Started transferring input files
+	Transferring to host: <131.225.191.156:9618?addrs=131.225.191.156-9618&alias=cmswn1870.fnal.gov&noUDP&sock=slot1_1_11602_6891_6128>
+...
+040 (72919055.652.000) 2021-08-19 14:28:34 Finished transferring input files
+...
+001 (72919055.652.000) 2021-08-19 14:28:35 Job executing on host: <131.225.191.156:9618?addrs=131.225.191.156-9618&alias=cmswn1870.fnal.gov&noUDP&sock=startd_1176_3777>
+...
+006 (72919055.652.000) 2021-08-19 14:28:44 Image size of job updated: 17
+	17  -  MemoryUsage of job (MB)
+	17600  -  ResidentSetSize of job (KB)
+...
+006 (72919055.652.000) 2021-08-19 14:29:45 Image size of job updated: 110
+	110  -  MemoryUsage of job (MB)
+	112956  -  ResidentSetSize of job (KB)
+...
+007 (72919055.652.000) 2021-08-19 14:30:36 Shadow exception!
+	Error from slot1_1@cmswn1870.fnal.gov: Cannot inspect exited container
+	0  -  Run Bytes Sent By Job
+	2191742  -  Run Bytes Received By Job
+...
+040 (72919055.652.000) 2021-08-19 14:30:41 Started transferring input files
+	Transferring to host: <131.225.204.40:9618?addrs=131.225.204.40-9618&alias=cmswn1644.fnal.gov&noUDP&sock=slot1_8_18307_b002_12605>
+...
+040 (72919055.652.000) 2021-08-19 14:30:41 Finished transferring input files
+...
+001 (72919055.652.000) 2021-08-19 14:30:42 Job executing on host: <131.225.204.40:9618?addrs=131.225.204.40-9618&alias=cmswn1644.fnal.gov&noUDP&sock=startd_1152_c131>
+...
+006 (72919055.652.000) 2021-08-19 14:30:51 Image size of job updated: 32
+	32  -  MemoryUsage of job (MB)
+	32928  -  ResidentSetSize of job (KB)
+...
+006 (72919055.652.000) 2021-08-19 14:31:52 Image size of job updated: 306
+	306  -  MemoryUsage of job (MB)
+	313796  -  ResidentSetSize of job (KB)
+...
+040 (72919055.652.000) 2021-08-19 14:32:06 Started transferring output files
+...
+040 (72919055.652.000) 2021-08-19 14:32:09 Finished transferring output files
+...
+005 (72919055.652.000) 2021-08-19 14:32:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:33, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:33, Sys 0 00:00:04  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1083054  -  Run Bytes Sent By Job
+	2191742  -  Run Bytes Received By Job
+	1083054  -  Total Bytes Sent By Job
+	4383484  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     4862     2250    320971 
+	   Memory (MB)          :      306     2048      2048 
+
+	Job terminated of its own accord at 2021-08-19T19:32:06Z.
+...

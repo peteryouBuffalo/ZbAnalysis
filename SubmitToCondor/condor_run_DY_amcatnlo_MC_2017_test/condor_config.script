@@ -1,0 +1,13 @@
+universe = vanilla 
+Executable = condor_executable.sh 
+Arguments = $(Process) 
+Should_Transfer_Files = YES 
+WhenToTransferOutput = ON_EXIT 
+Transfer_Input_Files = input.tar 
+Output = ctagana_$(Cluster)_$(Process).stdout 
+Error = ctagana_$(Cluster)_$(Process).stderr 
+Log = ctagana_$(Cluster)_$(Process).log 
+notify_user = ${LOGNAME}@FNAL.GOV 
++LENGTH="SHORT" 
+x509userproxy = $ENV(X509_USER_PROXY) 
+Queue 171

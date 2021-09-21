@@ -1,0 +1,14 @@
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_22.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_33.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_34.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_38.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_67.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_72.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_81.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_82.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_85.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_87.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_88.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_89.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_90.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/output_94.root

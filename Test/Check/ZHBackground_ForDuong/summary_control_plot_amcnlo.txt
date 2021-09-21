@@ -1,0 +1,7 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\title{Control plots}
+\begin{document}
+\section{Z_jet}
+\section{Z_bjet}
+\section{Z_2bjet}

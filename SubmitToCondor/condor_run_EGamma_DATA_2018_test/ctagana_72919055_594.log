@@ -1,0 +1,42 @@
+000 (72919055.594.000) 2021-08-19 13:14:08 Job submitted from host: <131.225.188.235:9618?addrs=131.225.188.235-9618&alias=lpcschedd3.fnal.gov&noUDP&sock=schedd_2408689_e2e5>
+...
+040 (72919055.594.000) 2021-08-19 14:27:39 Started transferring input files
+	Transferring to host: <131.225.205.198:9618?addrs=131.225.205.198-9618&alias=cmswn1972.fnal.gov&noUDP&sock=slot1_16_1562_51f9_15850>
+...
+040 (72919055.594.000) 2021-08-19 14:27:39 Finished transferring input files
+...
+001 (72919055.594.000) 2021-08-19 14:27:40 Job executing on host: <131.225.205.198:9618?addrs=131.225.205.198-9618&alias=cmswn1972.fnal.gov&noUDP&sock=startd_1438_ed47>
+...
+006 (72919055.594.000) 2021-08-19 14:27:48 Image size of job updated: 19
+	19  -  MemoryUsage of job (MB)
+	19664  -  ResidentSetSize of job (KB)
+...
+006 (72919055.594.000) 2021-08-19 14:28:48 Image size of job updated: 151
+	151  -  MemoryUsage of job (MB)
+	155112  -  ResidentSetSize of job (KB)
+...
+006 (72919055.594.000) 2021-08-19 14:30:13 Image size of job updated: 159
+	159  -  MemoryUsage of job (MB)
+	163836  -  ResidentSetSize of job (KB)
+...
+040 (72919055.594.000) 2021-08-19 14:30:13 Started transferring output files
+...
+040 (72919055.594.000) 2021-08-19 14:30:17 Finished transferring output files
+...
+005 (72919055.594.000) 2021-08-19 14:30:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:45, Sys 0 00:00:05  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1083111  -  Run Bytes Sent By Job
+	2191742  -  Run Bytes Received By Job
+	1083111  -  Total Bytes Sent By Job
+	2191742  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     4865     2250   1692616 
+	   Memory (MB)          :      159     2048      2048 
+
+	Job terminated of its own accord at 2021-08-19T19:30:13Z.
+...

@@ -1,0 +1,2 @@
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_2J_amcatnlo_MC_2018/output_23.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_2J_amcatnlo_MC_2018/output_49.root

@@ -1,0 +1,9 @@
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/C281D2C7-E1D8-3840-81B8-7D04E9A52FA3.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/BAA8E187-8014-8847-9CB3-552FF3820717.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/221CB911-3A55-7B4B-8EE2-906B9B961A57.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/C710C457-C460-1E46-BC81-FF23906436B8.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/61F3ECE3-4367-B34D-BBCD-A64FF31B7B51.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/DF50BD08-09DE-ED4A-B09A-D18D7C73D32C.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/D013C082-82FA-864A-8DEB-9D6B810150A0.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/17A9A3F8-5262-E242-BB35-EF867D635136.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIISummer16NanoAODv6/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8/NANOAODSIM/Nano25Oct2019_102X_mcRun2_asymptotic_v7-v1/280000/B229F44B-3F18-6245-9E7B-6AADA4A532B5.root

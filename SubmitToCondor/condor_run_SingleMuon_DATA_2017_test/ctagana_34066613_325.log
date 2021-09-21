@@ -1,0 +1,42 @@
+000 (34066613.325.000) 2021-08-19 13:13:19 Job submitted from host: <131.225.188.57:9618?addrs=131.225.188.57-9618&alias=lpcschedd2.fnal.gov&noUDP&sock=schedd_2565_f483>
+...
+040 (34066613.325.000) 2021-08-19 14:18:44 Started transferring input files
+	Transferring to host: <131.225.191.152:9618?addrs=131.225.191.152-9618&alias=cmswn1874.fnal.gov&noUDP&sock=slot1_7_10368_f19f_6688>
+...
+040 (34066613.325.000) 2021-08-19 14:18:45 Finished transferring input files
+...
+001 (34066613.325.000) 2021-08-19 14:18:46 Job executing on host: <131.225.191.152:9618?addrs=131.225.191.152-9618&alias=cmswn1874.fnal.gov&noUDP&sock=startd_1140_860e>
+...
+006 (34066613.325.000) 2021-08-19 14:18:54 Image size of job updated: 41
+	41  -  MemoryUsage of job (MB)
+	42764  -  ResidentSetSize of job (KB)
+...
+006 (34066613.325.000) 2021-08-19 14:19:54 Image size of job updated: 215
+	215  -  MemoryUsage of job (MB)
+	220240  -  ResidentSetSize of job (KB)
+...
+006 (34066613.325.000) 2021-08-19 14:20:03 Image size of job updated: 224
+	224  -  MemoryUsage of job (MB)
+	229840  -  ResidentSetSize of job (KB)
+...
+040 (34066613.325.000) 2021-08-19 14:20:04 Started transferring output files
+...
+040 (34066613.325.000) 2021-08-19 14:20:06 Finished transferring output files
+...
+005 (34066613.325.000) 2021-08-19 14:20:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:32, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:32, Sys 0 00:00:04  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1026430  -  Run Bytes Sent By Job
+	1782150  -  Run Bytes Received By Job
+	1026430  -  Total Bytes Sent By Job
+	1782150  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     4406     1750    318018 
+	   Memory (MB)          :      224     2048      2048 
+
+	Job terminated of its own accord at 2021-08-19T19:20:03Z.
+...

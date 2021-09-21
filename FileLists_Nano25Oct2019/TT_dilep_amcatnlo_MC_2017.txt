@@ -1,0 +1,2 @@
+root:://cmsxrootd.fnal.gov///store/mc/RunIIFall17NanoAODv6/TT_DiLept_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/PU2017_12Apr2018_Nano25Oct2019_102X_mc2017_realistic_v7-v1/260000/249D9396-2E80-7F40-80E3-1BD4DCD7AFEA.root
+root:://cmsxrootd.fnal.gov///store/mc/RunIIFall17NanoAODv6/TT_DiLept_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/PU2017_12Apr2018_Nano25Oct2019_102X_mc2017_realistic_v7-v1/260000/9D1899A3-A7C9-7442-BA6F-DBB3674A2009.root

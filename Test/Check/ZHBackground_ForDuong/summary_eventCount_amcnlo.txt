@@ -1,0 +1,212 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\title{Control plots}
+\begin{document}
+
+\begin{table}[h]
+  \caption{16\_Z\_jet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              1617567 &           2278658\\           
+  tt &                                              18115 &             23553\\             
+  Single t &                                        1669 &              2194\\              
+  VV &                                              10721 &             14492\\             
+  ZH &                                              10721 &             14492\\             
+\hline
+  MC &                                              1658792 &           2333390\\           
+  Data &                                            1552852 &           2249168\\           
+  Data/MC &                                         0.94 &              0.96\\              
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{16\_Z\_bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              nan &               nan\\               
+  tt &                                              inf &               18152\\             
+  Single t &                                        1087 &              1415\\              
+  VV &                                              1097 &              nan\\               
+  ZH &                                              1097 &              nan\\               
+\hline
+  MC &                                              nan &               nan\\               
+  Data &                                            110071 &            155989\\            
+  Data/MC &                                         nan &               nan\\               
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{16\_Z\_2bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              inf &               nan\\               
+  tt &                                              4665 &              6059\\              
+  Single t &                                        133 &               186\\               
+  VV &                                              119 &               157\\               
+  ZH &                                              119 &               157\\               
+\hline
+  MC &                                              inf &               nan\\               
+  Data &                                            9314 &              12764\\             
+  Data/MC &                                         0.00 &              nan\\               
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{17\_Z\_jet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              2195111 &           2856518\\           
+  tt &                                              23587 &             29159\\             
+  Single t &                                        2114 &              2727\\              
+  VV &                                              13485 &             17226\\             
+  ZH &                                              13485 &             17226\\             
+\hline
+  MC &                                              2247781 &           2922855\\           
+  Data &                                            2002414 &           3006894\\           
+  Data/MC &                                         0.89 &              1.03\\              
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{17\_Z\_bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              129287 &            nan\\               
+  tt &                                              18387 &             22755\\             
+  Single t &                                        1376 &              1784\\              
+  VV &                                              1352 &              1708\\              
+  ZH &                                              1352 &              1708\\              
+\hline
+  MC &                                              151753 &            nan\\               
+  Data &                                            131813 &            193082\\            
+  Data/MC &                                         0.87 &              nan\\               
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{17\_Z\_2bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              6433 &              8130\\              
+  tt &                                              6295 &              7789\\              
+  Single t &                                        170 &               228\\               
+  VV &                                              172 &               199\\               
+  ZH &                                              172 &               199\\               
+\hline
+  MC &                                              13242 &             16546\\             
+  Data &                                            11868 &             16414\\             
+  Data/MC &                                         0.90 &              0.99\\              
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{18\_Z\_jet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              3036417 &           4019006\\           
+  tt &                                              33182 &             41318\\             
+  Single t &                                        2976 &              3889\\              
+  VV &                                              18906 &             24599\\             
+  ZH &                                              18906 &             24599\\             
+\hline
+  MC &                                              3110387 &           4113410\\           
+  Data &                                            2875841 &           4087483\\           
+  Data/MC &                                         0.92 &              0.99\\              
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{18\_Z\_bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              nan &               nan\\               
+  tt &                                              26846 &             nan\\               
+  Single t &                                        2035 &              2672\\              
+  VV &                                              2121 &              2854\\              
+  ZH &                                              2121 &              2854\\              
+\hline
+  MC &                                              nan &               nan\\               
+  Data &                                            222950 &            314249\\            
+  Data/MC &                                         nan &               nan\\               
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+  \caption{18\_Z\_2bjet}
+  \label{tab:}
+  \centering
+  \begin{tabular}{lcc}
+  \hline
+  \hline
+   &                                                Electron &          Muon\\              
+  \hline
+  DY &                                              10841 &             13626\\             
+  tt &                                              9901 &              nan\\               
+  Single t &                                        284 &               356\\               
+  VV &                                              255 &               334\\               
+  ZH &                                              255 &               334\\               
+\hline
+  MC &                                              21538 &             nan\\               
+  Data &                                            19838 &             26694\\             
+  Data/MC &                                         0.92 &              nan\\               
+  \hline
+  \hline
+\end{tabular}
+\end{table}
+\end{document}

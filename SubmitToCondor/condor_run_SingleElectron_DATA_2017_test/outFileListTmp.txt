@@ -1,0 +1,6 @@
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_121.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_138.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_167.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_354.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_363.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/SingleElectron_DATA_2017/output_364.root

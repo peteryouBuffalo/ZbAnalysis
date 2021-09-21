@@ -1,0 +1,9 @@
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_0.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_1.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_11.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_12.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_13.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_14.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_7.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_8.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2017/output_9.root
