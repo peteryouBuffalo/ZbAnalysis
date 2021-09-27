@@ -1,0 +1,40 @@
+000 (14729551.019.000) 2021-09-24 12:31:25 Job submitted from host: <131.225.188.55:9618?addrs=131.225.188.55-9618&alias=lpcschedd1.fnal.gov&noUDP&sock=schedd_2070_6d22>
+...
+040 (14729551.019.000) 2021-09-24 12:59:34 Started transferring input files
+	Transferring to host: <131.225.188.34:9618?addrs=131.225.188.34-9618&alias=cmswn2026.fnal.gov&noUDP&sock=slot1_12_2002_570a_4749>
+...
+040 (14729551.019.000) 2021-09-24 12:59:34 Finished transferring input files
+...
+001 (14729551.019.000) 2021-09-24 12:59:35 Job executing on host: <131.225.188.34:9618?addrs=131.225.188.34-9618&alias=cmswn2026.fnal.gov&noUDP&sock=startd_1924_484e>
+...
+006 (14729551.019.000) 2021-09-24 12:59:45 Image size of job updated: 6
+	6  -  MemoryUsage of job (MB)
+	6252  -  ResidentSetSize of job (KB)
+...
+006 (14729551.019.000) 2021-09-24 13:00:43 Image size of job updated: 307
+	307  -  MemoryUsage of job (MB)
+	315256  -  ResidentSetSize of job (KB)
+...
+040 (14729551.019.000) 2021-09-24 13:00:48 Entered queue to transfer output files
+...
+040 (14729551.019.000) 2021-09-24 13:00:52 Started transferring output files
+...
+040 (14729551.019.000) 2021-09-24 13:00:53 Finished transferring output files
+...
+005 (14729551.019.000) 2021-09-24 13:00:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	944143  -  Run Bytes Sent By Job
+	1239420  -  Run Bytes Received By Job
+	944143  -  Total Bytes Sent By Job
+	1239420  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     3806     1250   1629604 
+	   Memory (MB)          :      307     2048      2048 
+
+	Job terminated of its own accord at 2021-09-24T18:00:43Z.
+...

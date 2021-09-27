@@ -1,0 +1,48 @@
+000 (73444225.150.000) 2021-09-24 12:30:36 Job submitted from host: <131.225.188.235:9618?addrs=131.225.188.235-9618&alias=lpcschedd3.fnal.gov&noUDP&sock=schedd_2706_ab5d>
+...
+040 (73444225.150.000) 2021-09-24 13:02:28 Started transferring input files
+	Transferring to host: <131.225.191.75:9618?addrs=131.225.191.75-9618&alias=cmswn1991.fnal.gov&noUDP&sock=slot1_3_1553_fa98_3701>
+...
+040 (73444225.150.000) 2021-09-24 13:02:29 Finished transferring input files
+...
+001 (73444225.150.000) 2021-09-24 13:02:30 Job executing on host: <131.225.191.75:9618?addrs=131.225.191.75-9618&alias=cmswn1991.fnal.gov&noUDP&sock=startd_1433_7f4e>
+...
+006 (73444225.150.000) 2021-09-24 13:02:38 Image size of job updated: 14
+	14  -  MemoryUsage of job (MB)
+	15100  -  ResidentSetSize of job (KB)
+...
+006 (73444225.150.000) 2021-09-24 13:03:38 Image size of job updated: 14
+	14  -  MemoryUsage of job (MB)
+	15344  -  ResidentSetSize of job (KB)
+...
+006 (73444225.150.000) 2021-09-24 13:05:39 Image size of job updated: 199
+	199  -  MemoryUsage of job (MB)
+	204324  -  ResidentSetSize of job (KB)
+...
+006 (73444225.150.000) 2021-09-24 13:09:43 Image size of job updated: 243
+	243  -  MemoryUsage of job (MB)
+	249584  -  ResidentSetSize of job (KB)
+...
+040 (73444225.150.000) 2021-09-24 13:09:58 Entered queue to transfer output files
+...
+040 (73444225.150.000) 2021-09-24 13:11:05 Started transferring output files
+...
+040 (73444225.150.000) 2021-09-24 13:11:08 Finished transferring output files
+...
+005 (73444225.150.000) 2021-09-24 13:11:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:46, Sys 0 00:00:10  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1051255  -  Run Bytes Sent By Job
+	1945990  -  Run Bytes Received By Job
+	1051255  -  Total Bytes Sent By Job
+	1945990  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  4594        2000    780107 
+	   Memory (MB)          :   243        2048      2048 
+
+	Job terminated of its own accord at 2021-09-24T18:09:53Z.
+...

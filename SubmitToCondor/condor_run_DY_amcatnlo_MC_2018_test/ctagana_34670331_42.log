@@ -1,0 +1,62 @@
+000 (34670331.042.000) 2021-09-24 12:32:23 Job submitted from host: <131.225.188.57:9618?addrs=131.225.188.57-9618&alias=lpcschedd2.fnal.gov&noUDP&sock=schedd_2251_93c6>
+...
+040 (34670331.042.000) 2021-09-24 13:41:29 Started transferring input files
+	Transferring to host: <131.225.204.42:9618?addrs=131.225.204.42-9618&alias=cmswn1646.fnal.gov&noUDP&sock=slot1_2_1265_0e8d_7905>
+...
+040 (34670331.042.000) 2021-09-24 13:41:29 Finished transferring input files
+...
+001 (34670331.042.000) 2021-09-24 13:41:30 Job executing on host: <131.225.204.42:9618?addrs=131.225.204.42-9618&alias=cmswn1646.fnal.gov&noUDP&sock=startd_1136_c7ad>
+...
+006 (34670331.042.000) 2021-09-24 13:41:39 Image size of job updated: 33
+	33  -  MemoryUsage of job (MB)
+	34352  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:42:39 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124572  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:43:39 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124592  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:44:39 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124652  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:45:39 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124700  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:46:39 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124720  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:50:41 Image size of job updated: 121
+	121  -  MemoryUsage of job (MB)
+	124744  -  ResidentSetSize of job (KB)
+...
+006 (34670331.042.000) 2021-09-24 13:51:16 Image size of job updated: 122
+	122  -  MemoryUsage of job (MB)
+	125324  -  ResidentSetSize of job (KB)
+...
+040 (34670331.042.000) 2021-09-24 13:51:16 Started transferring output files
+...
+040 (34670331.042.000) 2021-09-24 13:51:17 Finished transferring output files
+...
+005 (34670331.042.000) 2021-09-24 13:51:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:39, Sys 0 00:03:30  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:39, Sys 0 00:03:30  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1001551  -  Run Bytes Sent By Job
+	1433986  -  Run Bytes Received By Job
+	1001551  -  Total Bytes Sent By Job
+	1433986  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            :  4042        1500    321968 
+	   Memory (MB)          :   122        2048      2048 
+
+	Job terminated of its own accord at 2021-09-24T18:51:16Z.
+...
