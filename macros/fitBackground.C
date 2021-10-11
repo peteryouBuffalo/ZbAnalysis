@@ -71,7 +71,7 @@ Double_t ftotal(Double_t *x, Double_t *par)
 void fitBackground()
 {
 	// Get the location of the files you want to use
-	std::string fileLoc = "../output_prefire/";
+	std::string fileLoc = "../old_outputs/output_prefire/";
 	std::string filesEE[] = 
     {  "SingleElectron_DATA_2016.root", "SingleElectron_DATA_2017.root",
      "EGamma_DATA_2018.root" };
@@ -79,7 +79,7 @@ void fitBackground()
     {  "SingleMuon_DATA_2016.root", "SingleMuon_DATA_2017.root",
      "SingleMuon_DATA_2018.root" };
      
-    std::string fileLoc2 = "../output_prefire/";
+    std::string fileLoc2 = "../old_outputs/output_prefire/";
     std::string filesTT[3][2] =
     {
     	{ "TT_powheg_MC_2016.root", ""},

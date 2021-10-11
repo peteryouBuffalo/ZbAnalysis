@@ -142,7 +142,7 @@ void fithist()
   gStyle->SetOptStat(0);
   
   //--- Files that are currently being used ---------------------------------//
-  std::string fileLoc = "../output_updated/";
+  std::string fileLoc = "../old_outputs/output_updated/";
   
   std::string filesEE[] = 
   {  "SingleElectron_DATA_2016.root", "SingleElectron_DATA_2017.root",
