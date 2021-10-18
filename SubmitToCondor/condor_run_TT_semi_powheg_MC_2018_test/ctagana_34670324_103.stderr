@@ -1,5 +1,0 @@
-WARNING: In non-interactive mode release checks e.g. deprecated releases, production architectures are disabled.
-Error in <TNetXNGFile::Init>: file root:://cmsxrootd.fnal.gov//store/mc/RunIIAutumn18NanoAODv7/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/NANOAODSIM/Nano02Apr2020_102X_upgrade2018_realistic_v21_ext3-v1/60000/1A3D3D04-F189-AC47-AF15-8B59799D78CC.root is truncated at 268435456 bytes: should be 2909881116, trying to recover
-Warning in <TNetXNGFile::Init>: no keys recovered, file has been made a Zombie
-Error in <TNetXNGFile::TNetXNGFile>: Object is in 'zombie' state
-[353.1kB/353.1kB][100%][==================================================][353.1kB/s]  [353.1kB/353.1kB][100%][==================================================][353.1kB/s]  

@@ -500,10 +500,13 @@ void ZbSelection::Process(Reader* r) {
 
         if (Z.m_lvec.M() >= CUTS.Get<float>("ZMassL") &&
           Z.m_lvec.M() <= CUTS.Get<float>("ZMassH")) {
-          if (*(r->MET_pt) > 80.0) {
-            h_zem_2bjet_muon->Fill(Z, bjets[0], bjets[1], 1.0);
-            h_zem_2bjet_muon->FillMet(*(r->MET_pt), *(r->PuppiMET_pt), 1.);
-            h_zem_2bjet_muon->FillMetSig(*(r->MET_significance), 1.);
+          if (bjets.size() >= 2)
+          {
+	    if (*(r->MET_pt) > 80.0) {
+	      h_zem_2bjet_muon->Fill(Z, bjets[0], bjets[1], 1.0);
+	      h_zem_2bjet_muon->FillMet(*(r->MET_pt), *(r->PuppiMET_pt), 1.);
+	      h_zem_2bjet_muon->FillMetSig(*(r->MET_significance), 1.);
+	    }
           }
 
         }//end-zMass

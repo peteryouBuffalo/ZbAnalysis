@@ -1,2 +1,0 @@
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2018/output_10.root
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_antitop_MC_2018/output_7.root

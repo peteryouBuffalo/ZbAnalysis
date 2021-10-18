@@ -1,1 +1,0 @@
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ZZ_MC_2016/output_1.root

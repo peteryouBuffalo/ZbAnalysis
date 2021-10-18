@@ -74,15 +74,15 @@ submit = True # for executing submission
 
 debug = False 
 
-dataSet_list = '../datasets_Nano02Apr2020_fullset_json.txt' 
+dataSet_list = '../datasets_Nano02Apr2020_json.txt' 
 
 nFile = 1
 
 dir_file_list = '../FileLists_Nano02Apr2020'
 
-outputDir_eos = '/eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021'
+outputDir_eos = '/eos/uscms/store/user/peteryou/Output_ZplusB/output_updates'
 #outputDir_scratch = '/uscms/home/peteryou/CMSSW_10_6_4/src/ZbAnalysis/output_background' 
-outputDir_scratch = '/uscms_data/d3/peteryou/CMSSW_10_6_4/src/ZbAnalysis/output_updated2021'
+outputDir_scratch = '/uscms_data/d3/peteryou/CMSSW_10_6_4/src/ZbAnalysis/output_updates'
 
 #Print setting
 print '============================='

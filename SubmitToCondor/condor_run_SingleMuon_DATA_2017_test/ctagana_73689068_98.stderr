@@ -1,0 +1,4 @@
+WARNING: In non-interactive mode release checks e.g. deprecated releases, production architectures are disabled.
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3006] Unable to create file (O_EXCL) /eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2017/output_98.root; File exists
+

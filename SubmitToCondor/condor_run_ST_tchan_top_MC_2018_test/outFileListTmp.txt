@@ -1,5 +1,0 @@
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_top_MC_2018/output_45.root
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_top_MC_2018/output_61.root
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_top_MC_2018/output_76.root
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_top_MC_2018/output_77.root
-root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/ST_tchan_top_MC_2018/output_89.root

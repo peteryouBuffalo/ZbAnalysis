@@ -10,6 +10,6 @@ cd ${_CONDOR_SCRATCH_DIR}
 tar -xvf input.tar 
 make FORMAT=MC_2017
 ./main -filelist sampleList_$1.txt -out output_$1.root -data 0 -year 2017 
-xrdcp *.root root://cmseos.fnal.gov//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/ 
+xrdcp *.root root://cmseos.fnal.gov//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/DY_1J_amcatnlo_MC_2017/ 
 rm *.root 
-echo "xrdcp *.root root://cmseos.fnal.gov//eos/uscms/store/user/peteryou/Output_ZplusB/output_updated2021/DY_1J_amcatnlo_MC_2017/" 
+echo "xrdcp *.root root://cmseos.fnal.gov//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/DY_1J_amcatnlo_MC_2017/" 

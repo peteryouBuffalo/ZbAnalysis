@@ -1,0 +1,48 @@
+000 (34926989.597.000) 2021-10-18 11:34:02 Job submitted from host: <131.225.188.57:9618?addrs=131.225.188.57-9618&alias=lpcschedd2.fnal.gov&noUDP&sock=schedd_2267_8d4a>
+...
+040 (34926989.597.000) 2021-10-18 13:01:03 Started transferring input files
+	Transferring to host: <131.225.191.174:9618?addrs=131.225.191.174-9618&alias=cmswn1916.fnal.gov&noUDP&sock=slot1_4_1232_ce2b_9434>
+...
+040 (34926989.597.000) 2021-10-18 13:01:03 Finished transferring input files
+...
+001 (34926989.597.000) 2021-10-18 13:01:04 Job executing on host: <131.225.191.174:9618?addrs=131.225.191.174-9618&alias=cmswn1916.fnal.gov&noUDP&sock=startd_1156_7f92>
+...
+006 (34926989.597.000) 2021-10-18 13:01:13 Image size of job updated: 8
+	8  -  MemoryUsage of job (MB)
+	8688  -  ResidentSetSize of job (KB)
+...
+006 (34926989.597.000) 2021-10-18 13:02:13 Image size of job updated: 109
+	109  -  MemoryUsage of job (MB)
+	111692  -  ResidentSetSize of job (KB)
+...
+006 (34926989.597.000) 2021-10-18 13:03:13 Image size of job updated: 109
+	109  -  MemoryUsage of job (MB)
+	111772  -  ResidentSetSize of job (KB)
+...
+006 (34926989.597.000) 2021-10-18 13:04:03 Image size of job updated: 110
+	110  -  MemoryUsage of job (MB)
+	112840  -  ResidentSetSize of job (KB)
+...
+040 (34926989.597.000) 2021-10-18 13:04:08 Entered queue to transfer output files
+...
+040 (34926989.597.000) 2021-10-18 13:05:39 Started transferring output files
+...
+040 (34926989.597.000) 2021-10-18 13:05:42 Finished transferring output files
+...
+005 (34926989.597.000) 2021-10-18 13:05:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:15, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:15, Sys 0 00:00:04  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1038731  -  Run Bytes Sent By Job
+	1905002  -  Run Bytes Received By Job
+	1038731  -  Total Bytes Sent By Job
+	1905002  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :     4538     2000    308152 
+	   Memory (MB)          :      110     2048      2048 
+
+	Job terminated of its own accord at 2021-10-18T18:04:03Z.
+...
