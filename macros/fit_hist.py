@@ -113,7 +113,7 @@ ROOT.gStyle.SetOptStat(0)
 debug = True		# true = print debug statements, false = do NOT do this
 save_plots = True	# true = save the plots, false = do NOT do this
 
-file_location = "../output_updated2021/"	# directory for ROOT files
+file_location = "../output_updates/"	# directory for ROOT files
 
 
 # Loop through each channel
@@ -136,8 +136,8 @@ for chan in channels:
 			
 			if debug: print "      Variable: ", var
 			
-			plot_ll = plots[chan][0] + "_" + var
-			plot_emu = plots[chan][1] + "_" + var
+			plot_ll = plots_noCuts[chan][0] + "_" + var
+			plot_emu = plots_noCuts[chan][1] + "_" + var
 			print "        Hist ll:  ", plot_ll
 			print "        Hist emu: ", plot_emu
 			
@@ -145,30 +145,33 @@ for chan in channels:
 			ll_data = f.Get(plot_ll)
 			emu_data = f.Get(plot_emu)
 			
-			# Print the data
-			c = ROOT.TCanvas()
-			ll_data.Draw()
-			
-			# Draw some necessary labels
-			t = ROOT.TLatex()
-			t.SetNDC()
-			t.DrawLatex(0.1, 0.92, "CMS")
-			
-			t2 = ROOT.TLatex()
-			t2.SetNDC()
-			t2.SetTextAlign(12)
-			t2.SetTextFont(42)
-			t2.SetTextSize(0.04)
-			t2.DrawLatex(0.4, 0.93, "Work in Progress")
-			
-			t3 = ROOT.TLatex()
-			t2.SetNDC()
-			t2.SetTextFont(42)
-			t2.SetTextSize(0.04)
-			t2.DrawLatex(0.7, 0.93, "35.9 fb^{-1} (13 TeV)")
-			
-			# Save the plots
-			path = "bckg_results/" + chan + "_" + var + "_" + yr + ".pdf"
-			c.SaveAs(path)
+			# Get the region that we want
+			for region in ['sideband', 'window']:
+				
+				# Print the data
+				c = ROOT.TCanvas()
+				ll_data.Draw()
+				
+				# Draw some necessary labels
+				t = ROOT.TLatex()
+				t.SetNDC()
+				t.DrawLatex(0.1, 0.92, "CMS")
+				
+				t2 = ROOT.TLatex()
+				t2.SetNDC()
+				t2.SetTextAlign(12)
+				t2.SetTextFont(42)
+				t2.SetTextSize(0.04)
+				t2.DrawLatex(0.4, 0.93, "Work in Progress")
+				
+				t3 = ROOT.TLatex()
+				t2.SetNDC()
+				t2.SetTextFont(42)
+				t2.SetTextSize(0.04)
+				t2.DrawLatex(0.7, 0.93, "35.9 fb^{-1} (13 TeV)")
+				
+				# Save the plots
+				path = "bckg_results/" + region + "/" + chan + "_" + var + "_" + yr + ".pdf"
+				c.SaveAs(path)
 			
 
