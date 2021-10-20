@@ -254,6 +254,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_326.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_327.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_328.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_329.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_33.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_330.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_331.root
@@ -670,6 +671,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_701.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_702.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_703.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_704.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_705.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_706.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_707.root
@@ -701,6 +703,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_730.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_731.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_732.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_733.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_734.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_735.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_736.root
@@ -808,6 +811,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_828.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_829.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_83.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_830.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_831.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_832.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_833.root
@@ -844,12 +848,14 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_861.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_862.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_863.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_864.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_865.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_866.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_867.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_868.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_869.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_87.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_870.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_871.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_872.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_873.root
@@ -863,6 +869,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_880.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_881.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_882.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_883.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_884.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_885.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/EGamma_DATA_2018/output_886.root

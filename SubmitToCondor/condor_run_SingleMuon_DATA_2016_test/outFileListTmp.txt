@@ -377,6 +377,7 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_437.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_438.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_439.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_44.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_440.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_441.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_442.root
@@ -486,7 +487,10 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_536.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_537.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_54.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_55.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_56.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_57.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_58.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_59.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_6.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_60.root
@@ -496,6 +500,8 @@ root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/ou
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_64.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_65.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_66.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_67.root
+root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_68.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_69.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_7.root
 root://cmseosmgm01.fnal.gov:1094//eos/uscms/store/user/peteryou/Output_ZplusB/output_updates/SingleMuon_DATA_2016/output_70.root
